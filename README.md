@@ -17,7 +17,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [CV]([cv])
 
----
+
 
 [linkedin]: https://www.linkedin.com/in/jacob-pihl-3ba72a141/
 [cv]: https://github.com/jacobpihl/myCV/blob/master/Jacob%20Pihl%20-%20CV%20-%20English.pdf
