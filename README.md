@@ -14,7 +14,7 @@
 
 ### Links:
 
-- 🏆 [LinkedIn][linkedin]
+- 🏮 [LinkedIn][linkedin]
 - 📜 [My CV][cv]
 
 
