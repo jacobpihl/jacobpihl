@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobpihl&hide=stars,issues?count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobpihl&hide=stars,issues?count_private=true&theme=tokyonight)](https://github-readme-stats.vercel.app/)
 
 
 [linkedin]: https://www.linkedin.com/in/jacob-pihl-3ba72a141/
