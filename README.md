@@ -1,8 +1,8 @@
 ## Hi! I'm Jacob
 
 - ⚡ System developer
+- ⚡ Code alchemist
 - ⚡ Love to learn new things
-- ⚡ Speaks 3 languages
 - ⚡ Published research: [Exercising with an "Iron Man"](https://ieeexplore.ieee.org/abstract/document/9223552)
 - ⚡ Contributor to [TabBlazor](https://tabblazor.com/)
 
