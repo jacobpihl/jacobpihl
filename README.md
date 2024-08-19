@@ -18,4 +18,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jacob-pihl-3ba72a141/
-[cv]: https://github.com/jacobpihl/myCV/blob/master/Jacob%20Pihl%20-%20CV%20-%20English.pdf
+[cv]: https://github.com/jacobpihl/myCV/blob/master/Jacob%20Pihl%20-%20CV.pdf
