@@ -1,6 +1,6 @@
 ## Hi! I'm Jacob
 
-- ⚡ Systems developer
+- ⚡ Software developer
 - ⚡ Published research: [Exercising with an "Iron Man"](https://ieeexplore.ieee.org/abstract/document/9223552)
 - ⚡ Contributor to [TabBlazor](https://tabblazor.com/)
 
